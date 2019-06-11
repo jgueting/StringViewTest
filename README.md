@@ -57,6 +57,7 @@ Process finished with exit code 0
 If you run the stringview.py a simplified violin string appears with several of those dots. Just opening the app shows lots of
 Exeptions ignored by kivy, yet, they create havy performance issues (especially if I use more than on StringView in the full app).
 The ignored exeptions disapear, if I do not use Fingerdots in the StringView.
+The messages a created on Windows, yet they appear to be very similar on Ubuntu (same machine)
 
 "C:\Program Files (x86)\Python36-32\python.exe" D:/PycharmProjects/StringViewTest/stringview.py
 [INFO   ] [Logger      ] Record log in C:\Users\jguet\.kivy\logs\kivy_19-06-11_96.txt
